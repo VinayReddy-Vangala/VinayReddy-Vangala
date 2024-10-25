@@ -8,7 +8,7 @@
 <img width="260" alt="image" src="https://github.com/user-attachments/assets/26f78b6d-75ab-408c-8dee-5c8e091b77e2">
 
 ## Current Workplace
-💼 Business Data Analyst at Bastion Health
+💼 Data Engineering & Analytics -Consultant at BMO.
 
 ## Competitive Coding Platforms
 <p>
